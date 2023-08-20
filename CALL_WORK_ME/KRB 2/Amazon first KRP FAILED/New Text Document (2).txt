@@ -1,5 +1,0 @@
-py
-
-import py_compile
-
-py_compile.compile("secs.py")
